@@ -1,0 +1,26 @@
+{
+  "name": "image-carousel-module",
+  "version": "1.0.0",
+  "description": "A reusable image carousel module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joejordan1994/image-carousel-module.git"
+  },
+  "keywords": [
+    "carousel",
+    "image",
+    "slider",
+    "module",
+    "javascript"
+  ],
+  "author": "Joe Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joejordan1994/image-carousel-module/issues"
+  },
+  "homepage": "https://github.com/joejordan1994/image-carousel-module#readme"
+}
