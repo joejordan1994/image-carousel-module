@@ -1,5 +1,5 @@
 {
-  "name": "image-carousel-module",
+  "name": "@joejordan1994/image-carousel-module",
   "version": "1.0.0",
   "description": "A reusable image carousel module",
   "main": "index.js",
